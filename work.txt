@@ -1,5 +1,3 @@
-creat page home
-creat page setting
 creat page
 creat dashboard
 creat page login
