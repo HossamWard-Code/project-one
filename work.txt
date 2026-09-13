@@ -2,5 +2,4 @@ creat page home
 creat page setting
 hello
 creat page
-ff ff ff 28
 creat dashboard
