@@ -1,4 +1,3 @@
 creat page home
 creat page setting
-hello
 creat page
