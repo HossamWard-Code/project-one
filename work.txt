@@ -3,3 +3,4 @@ creat dashboard
 creat page login
 creat page forget pass
 creat page home
+creat page home2
