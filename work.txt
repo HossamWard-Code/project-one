@@ -4,4 +4,4 @@ hello
 creat page
 creat dashboard
 creat page login
-creat page name
+creat page name 1
