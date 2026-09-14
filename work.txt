@@ -2,8 +2,11 @@ creat page vedio
 creat dashboard
 creat page login
 creat page forget pass
-creat page home
 creat page home2
 creat page name 1
+<<<<<<< HEAD
 creat page name 1
 creat damascus
+=======
+creat page name 2
+>>>>>>> 6c20f4541892c0f951c3142c34790fa4004c187c
